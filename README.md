@@ -18,7 +18,7 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays i
 
 ## 📷 Demo
 
- demo.png
+ ![App Ui](demo.png)
 *This is a quick screenShot of the app in action.*
 
 ---
