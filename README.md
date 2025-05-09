@@ -18,8 +18,8 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays i
 
 ## 📷 Demo
 
-![App Demo]()  
-*This is a quick screen recording of the app in action.*
+ demo.png
+*This is a quick screenShot of the app in action.*
 
 ---
 
@@ -31,7 +31,7 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays i
 - **IP-API for location detection**
 
 ---
-coded by Muhammad Israr
+Coded by Muhammad Israr
 LinkedIn: www.linkedin.com/in/muhammad-israr-01364a321
 
 ## 📁 How to Run
