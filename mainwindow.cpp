@@ -49,7 +49,7 @@ void MainWindow::on_pushButton_clicked()
 
 void MainWindow::fetchWeather(const QString& city)
 {
-    const QString apiKey = "7b428597e5330534c4fafaa9bdc91f15";//api key from Openweather map
+    const QString apiKey = "my api key";//api key remoed due to privacy
     QString urlStr = QString("https://api.openweathermap.org/data/2.5/weather?q=%1&appid=%2&units=metric")
                          .arg(city)
                          .arg(apiKey);
