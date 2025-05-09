@@ -31,6 +31,8 @@ It fetches real-time weather data from the **OpenWeatherMap API** and displays i
 - **IP-API for location detection**
 
 ---
+coded by Muhammad Israr
+LinkedIn: www.linkedin.com/in/muhammad-israr-01364a321
 
 ## 📁 How to Run
 
