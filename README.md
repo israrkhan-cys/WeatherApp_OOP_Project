@@ -38,5 +38,5 @@ LinkedIn: www.linkedin.com/in/muhammad-israr-01364a321
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/QtWeatherApp.git
-   cd QtWeatherApp
+   git clone https://github.com/israrkhan-cys/WeatherApp_OOP_Project
+   cd WeatherApp_OOP_Project
